@@ -1,4 +1,4 @@
 # ProjectsByGaurav
 This is my first git repository
 <br>
-Author:Gaurav
+Author:Gaurav(Gaurav)
